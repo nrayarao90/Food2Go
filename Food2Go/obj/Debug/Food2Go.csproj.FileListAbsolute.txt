@@ -1,0 +1,13 @@
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.dll.config
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\obj\Debug\Food2Go.csprojResolveAssemblyReference.cache
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\obj\Debug\Food2Go.csproj.CoreCompileInputs.cache
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\obj\Debug\Food2Go.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\obj\Debug\Food2Go.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.DAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.DAL.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.BAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go\bin\Food2Go.BAL.pdb

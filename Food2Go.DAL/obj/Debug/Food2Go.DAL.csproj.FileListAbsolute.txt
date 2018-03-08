@@ -1,0 +1,6 @@
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\bin\Debug\Food2Go.DAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\bin\Debug\Food2Go.DAL.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\obj\Debug\Food2Go.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\obj\Debug\Food2Go.DAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\obj\Debug\Food2Go.DAL.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.DAL\obj\Debug\Food2Go.DAL.csprojResolveAssemblyReference.cache

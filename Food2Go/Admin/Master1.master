@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master1.master.cs" Inherits="Food2Go.Admin.Master1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/style.css" rel="stylesheet" type="text/css" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="../css/grid.css" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/camera.css" />
+    <link rel="stylesheet" href="../css/jquery.fancybox.css" />
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+
+    <script src="../js/jquery.js"></script>
+    <script src="../js/jquery-migrate-1.2.1.js"></script>
+    <script src='../js/device.min.js'></script>
+    <style type="text/css">
+        .style1 {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="page">
+
+            <main>
+                <h4><em>Welcome to Food2Go</em></h4>
+            </main>
+            <div id="menu">
+                <table class="style1">
+                    <tr>
+
+                        <td>
+                            <asp:Button ID="btnAddProduct" runat="server" CssClass="btnn" Text="ADD PRODUCT"
+                                PostBackUrl="~/Admin/AddProduct.aspx" />
+                        </td>
+                        <td>
+                            <asp:Button ID="btnAdmin" runat="server" CssClass="btnn" Text="VIEW PRODUCT"
+                                PostBackUrl="~/Admin/ViewProducts.aspx" />
+                        </td>
+                        <td>
+                            <asp:Button ID="btnLogout" runat="server" CssClass="btnn" Text="LOG OUT"
+                                PostBackUrl="~/Default.aspx"/>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="cont">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

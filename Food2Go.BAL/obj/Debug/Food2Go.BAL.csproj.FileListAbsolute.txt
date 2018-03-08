@@ -1,0 +1,8 @@
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\bin\Debug\Food2Go.BAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\bin\Debug\Food2Go.BAL.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\bin\Debug\Food2Go.DAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\bin\Debug\Food2Go.DAL.pdb
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\obj\Debug\Food2Go.BAL.csprojResolveAssemblyReference.cache
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\obj\Debug\Food2Go.BAL.csproj.CoreCompileInputs.cache
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\obj\Debug\Food2Go.BAL.dll
+C:\Users\vsamb\source\repos\Food2Go\Food2Go.BAL\obj\Debug\Food2Go.BAL.pdb
